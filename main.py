@@ -29,4 +29,16 @@ def division(a,b):
     """
     return a / b
 
+def multiplicar(a,b):
+    """
+    This function takes two numbers, `a` and `b`, and returns their multiplication.
+    
+    Parameters:
+    a (int or float): The first number.
+    b (int or float): The second number.
+    
+    Returns:
+    int or float: The multiplication of `a` and `b`.
+    """
+    return a * b
 
